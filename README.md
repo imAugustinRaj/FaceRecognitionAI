@@ -1,6 +1,15 @@
 # FaceRecognitionAI
 Repository that contains the TCS HumAIn contest project.
 
+This repository contains, an ipynb were complete project has been worked on.
+
+mmod_humanfacedetector is a pretrained model which uses dlib library.
+Face_Recognition.json is the provided dataset which is used to train the model.
+
+[COMPLETED]
+
+Model has been trained, and tested for accuracy.
+
 [WIP]
 
 1) Adding the model to Flask
