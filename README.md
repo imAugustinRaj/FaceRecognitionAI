@@ -3,9 +3,9 @@ Repository that contains the TCS HumAIn contest project.
 
 This repository contains, 
 
-An ipynb were complete project has been worked on.
-mmod_humanfacedetector is a pretrained model which uses dlib library.
-Face_Recognition.json is the provided dataset which is used to train the model.
+1) An ipynb were complete project has been worked on.
+2) mmod_human_face_detector.dat which is a pretrained model which uses dlib library.
+3) Face_Recognition.json which is the provided dataset used to train the model.
 
 [COMPLETED]
 
